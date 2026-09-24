@@ -1,4 +1,4 @@
-# Senior Platform Engineer
+# Platform Engineer
 
 Building internal developer platforms that scale. Specialized in Kubernetes, GitOps, and API-centric architectures.
 
